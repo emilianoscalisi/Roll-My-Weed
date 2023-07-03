@@ -1,0 +1,26 @@
+.custome-bg-sidebar {
+    background-color: #83735c;
+}
+
+.custome-btn-sidebar {
+    background-color: #d09671;
+    border-color: #d09671;
+}
+
+.custome-btn-sidebar:active{
+    color:  #9c7e63;
+    background-color: #9c7e63;
+    border-color: #9c7e63;
+}
+
+.custome-btn-sidebar:hover {
+    background-color: #9c7e63;
+    border-color: #9c7e63;
+}
+
+
+.custome-btn-sidebar:disabled {
+    color:  #9c7e63;
+    background-color: #9c7e63;
+    border-color: #9c7e63;
+}
