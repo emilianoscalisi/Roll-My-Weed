@@ -1,0 +1,38 @@
+.navbar {
+    padding-top: 0;
+}
+
+.custome-navbar {
+    background-color: #18191d;
+    margin-top: 0;
+    padding: 0 16px 0 16px;
+}
+
+.img-container {    
+    width: 150px;
+}
+
+.right-menu {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    
+    
+}
+
+.custome-nav-item {
+    padding: 0 5px 0 5px;
+    color: #d09671;   
+}
+
+.custome-btn{
+    color: #d09671;
+    border: none;
+    background-color: #18191d;   
+
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
